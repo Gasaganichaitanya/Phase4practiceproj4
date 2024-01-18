@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MYQIGU3if15xrNJ85jE6G5MSUngB2llV9dRyoW6Mx8H5OGbknPCqH69zMlWJ7qrDdOao3JAwfae4rPv86JoiGA==",
+  "success": true,
+  "projectFilePath": "D:\\mphasis\\Phase4PracticeProjects\\PracticeProject4\\Phase4PracticeProj4\\Phase4PracticeProj4\\Phase4PracticeProj4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gasag\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512"
+  ],
+  "logs": []
+}

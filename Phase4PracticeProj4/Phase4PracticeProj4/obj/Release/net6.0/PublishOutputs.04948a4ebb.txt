@@ -1,0 +1,7 @@
+D:\mphasis\Phase4PracticeProjects\PracticeProject4\Phase4PracticeProj4\Phase4PracticeProj4\obj\Release\net6.0\PubTmp\Out\Phase4PracticeProj4.exe
+D:\mphasis\Phase4PracticeProjects\PracticeProject4\Phase4PracticeProj4\Phase4PracticeProj4\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\mphasis\Phase4PracticeProjects\PracticeProject4\Phase4PracticeProj4\Phase4PracticeProj4\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\mphasis\Phase4PracticeProjects\PracticeProject4\Phase4PracticeProj4\Phase4PracticeProj4\obj\Release\net6.0\PubTmp\Out\Phase4PracticeProj4.dll
+D:\mphasis\Phase4PracticeProjects\PracticeProject4\Phase4PracticeProj4\Phase4PracticeProj4\obj\Release\net6.0\PubTmp\Out\Phase4PracticeProj4.deps.json
+D:\mphasis\Phase4PracticeProjects\PracticeProject4\Phase4PracticeProj4\Phase4PracticeProj4\obj\Release\net6.0\PubTmp\Out\Phase4PracticeProj4.runtimeconfig.json
+D:\mphasis\Phase4PracticeProjects\PracticeProject4\Phase4PracticeProj4\Phase4PracticeProj4\obj\Release\net6.0\PubTmp\Out\Phase4PracticeProj4.pdb

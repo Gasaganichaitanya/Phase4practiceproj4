@@ -1,0 +1,16 @@
+﻿@model LoginPage
+
+<h1> Login</h1>
+@if (!string.IsNullOrEmpty(ViewBag.ErrororMessage))
+{
+    <p>ViewBag.ErrorMessage</p>
+}
+<form method="post" asp-action="Login">
+    <h4> Fill these form to Login</h4>
+    <label for="username"> User Name</label><br />
+    <input type="text" name="Username" placeholder="Enter user name"><br /><br />
+
+    <label for="password"> Password </label><br />
+    <input type="password" name="password" placeholder="Enter Password"><br /><br />
+    <button type="submit">Login</button>
+</form>
